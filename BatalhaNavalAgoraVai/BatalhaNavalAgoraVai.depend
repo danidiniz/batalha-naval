@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1483967714 source:c:\users\daniel diniz\documents\code blocks projects\batalhanavalagoravai\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estrutura.h"
+	"player.h"
+	"computer.h"
+
+1483966868 source:c:\users\daniel diniz\documents\code blocks projects\batalhanavalagoravai\computer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estrutura.h"
+	"computer.h"
+	"metodos.h"
+
+1483045393 c:\users\daniel diniz\documents\code blocks projects\batalhanavalagoravai\estrutura.h
+
+1483966884 c:\users\daniel diniz\documents\code blocks projects\batalhanavalagoravai\computer.h
+
+1483220961 c:\users\daniel diniz\documents\code blocks projects\batalhanavalagoravai\metodos.h
+
+1483965621 c:\users\daniel diniz\documents\code blocks projects\batalhanavalagoravai\player.h
+
+1483544449 source:c:\users\daniel diniz\documents\code blocks projects\batalhanavalagoravai\metodos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estrutura.h"
+	"metodos.h"
+
+1483965752 source:c:\users\daniel diniz\documents\code blocks projects\batalhanavalagoravai\player.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estrutura.h"
+	"player.h"
+	"computer.h"
+	"metodos.h"
+
